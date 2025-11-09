@@ -13,7 +13,6 @@ and practical for real-world applications.
 
    getting-started
    data-requirements
-   causal-methods
    examples
    api/index
 
